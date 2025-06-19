@@ -9,9 +9,9 @@
 </a>  
   
 ### Glad to see you here!  
-I am a backend software developer with a passion for creating technological solutions that positively impact people's lives.
+I am a backend software developer focused on delivering business-driven solutions.
 
-I started my studies by doing a Bachelor's degree in Mathematics, but passionate about technology, I changed careers to IT a little over a year ago. Since then, I have been constantly learning and evolving, always looking for the best practices and technologies to develop quality software.  
+I started my studies by doing a Bachelor's degree in Mathematics, but passionate about technology, I changed careers to IT. Since then, I have been constantly learning and evolving, always looking for the best practices and technologies to develop quality software.  
   
 
 <br/>  
